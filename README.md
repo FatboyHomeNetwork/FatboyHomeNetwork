@@ -9,4 +9,4 @@ A simple home network that provide the following functions:
 
 The network is mostly from Windows, and supports Android, google TV and apple TV OS.
 
-Where possible, operasting system configuraiton ahnges - regestry edites, ading removing progremas, users, etc - has been automated by automatd installers. This really simpillfies the insatll and cration of ther network. 
+Where possible, operating system config changes - registry edits, adding/removing programs, users, groups, permissions, etc - has been automated by installers, really simplifies the instal and creation of the network. 
